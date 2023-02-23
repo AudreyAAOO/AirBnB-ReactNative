@@ -1,0 +1,269 @@
+[
+    {
+        "_id": "58ff73cc1765a9979391c532",
+        "title": "View of the Eiffel Tower in Saint Germain!",
+        "description": "Apartment refurbished full of charm rue du Recherches-Midi, in the heart of the 6th arrondissement. Close to Luxembourg and the Bon Marché. Two bedrooms, sublime view of the Eiffel Tower, 2 balconies, very nice bathroom with separate WC. Open equipped kitchen, sofa bed, wifi ... A dream!",
+        "price": 200,
+        "ratingValue": 4,
+        "reviews": 48,
+        "photos": [
+            {
+                "url": "https://a2.muscache.com/im/pictures/a560cdc0-425d-4d7b-ab8a-f98481eeb23f.jpg",
+                "picture_id": "a560cdc0"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/38eb9bfe-bd03-4c21-a3b8-4d3c8e44c4c9.jpg",
+                "picture_id": "38eb9bfe"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/3e3b2eda-f99f-4ac3-94dd-3c3dc8f80c7a.jpg",
+                "picture_id": "3e3b2eda"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/25308387-a29c-4442-b927-39f2bd9c0e6f.jpg",
+                "picture_id": "25308387"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/db9f14c0-e7bc-4d2c-a87a-3f8ed0dce7ff.jpg",
+                "picture_id": "db9f14c0"
+            }
+        ],
+        "location": [
+            2.3215788,
+            48.8480923
+        ],
+        "user": {
+            "account": {
+                "username": "Lucy",
+                "description": "In the center of Paris, you will find on the 4th floor of a typical Parisian building a very nice flat with all necessary equipment.",
+                "photo": {
+                    "url": "https://res.cloudinary.com/lereacteur/image/upload/v1673028183/airbnb/static/full_lucy-boynton.jpg",
+                    "picture_id": "1410285266"
+                }
+            },
+            "_id": "58ff73cc1765a998979a338f",
+            "email": "lucy@airbnb-api.com",
+            "token": "Szjr58SBKGFWv0EK-PQ2ZjRuC-LfXtBlHdqNb-sliLWkLI40C6soot3YmrXQNEu0",
+            "hash": "0Y3kG4sjne0Qw6iYBxifhdVfK6pZlgFOEkYN2zhAtKM=",
+            "salt": "SvQyEycLJL4oJD8l949R3EYouA7FIJs4Y09HBq2gFy7slkRN47pBS3cM7m_nvBiP",
+            "rooms": [
+                "58ff73cc1765a998979a3391"
+            ],
+            "__v": 0
+        },
+        "__v": 0
+    },
+    {
+        "_id": "58ff73d11765a998979a33a0",
+        "title": "Bright apartment in Montmartre",
+        "description": "My apartment is next to Montmartre, less than 10 minutes from the Sacré Coeur. 2 min from the metro line 12, there are all the necessary shops in the neighborhood. The apartment has just been refurbished.",
+        "price": 80,
+        "ratingValue": 5,
+        "reviews": 50,
+        "photos": [
+            {
+                "url": "https://a2.muscache.com/im/pictures/52a738e1-d699-4e6e-af31-b7aaf59e2b03.jpg",
+                "picture_id": "52a738e1"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/128dc52b-d10a-49f7-9e88-e11beee90491.jpg",
+                "picture_id": "128dc52b"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/584f9bfe-7048-4f60-822d-54ddabd76c81.jpg",
+                "picture_id": "584f9bfe"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/3e38b958-3ee6-43cb-9d07-7c35045584bf.jpg",
+                "picture_id": "3e38b958"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/4029375e-3e6b-43fb-9c80-7f15d226ed82.jpg",
+                "picture_id": "4029375e"
+            }
+        ],
+        "location": [
+            2.3374505,
+            48.8901751
+        ],
+        "user": {
+            "account": {
+                "username": "Astrid",
+                "description": "My name is Astrid, I'm French, 29 years old and work for a communication agency specialized in food. I am passionate about food (of course!) and everything related to it. I also love reading, yoga, dogs, traveling, meeting new people and sharing a good meal with them !",
+                "photo": {
+                    "url": "https://res.cloudinary.com/lereacteur/image/upload/v1673028108/airbnb/static/cropped_avatar.jpg",
+                    "picture_id": "1352061888"
+                }
+            },
+            "_id": "58ff73cc1765a998979a338c",
+            "email": "astrid@airbnb-api.com",
+            "token": "j-1EsbohtFkwm-UN5FqcFsDJSFrToSE3jEGzy06U75J-ULrsUJD63jkQjD5rXMky",
+            "hash": "O3i2ctVX6bdEP+Wu9+r+tmuoS1GrEpd0a5gyFZf9NA0=",
+            "salt": "NEKhL5RnVtC5mREtAJecLrGL67PDDJI1NHsfn2R1z3Hoanz__3PrnagX-QNBC9Ei",
+            "rooms": [
+                "58ff73d11765a998979a33a0"
+            ],
+            "__v": 0
+        },
+        "__v": 0
+    },
+    {
+        "_id": "58ff73cc1765a99897945391",
+        "title": "Exceptional apt in the Latin Quarter",
+        "description": "Exceptional view and hypercentral are the best words to describe our apartment located in a beautiful 18th century building in the heart of the Latin Quarter in front of Notre-Dame.",
+        "price": 480,
+        "ratingValue": 5,
+        "reviews": 19,
+        "photos": [
+            {
+                "url": "https://a2.muscache.com/im/pictures/60541451/7a1644c5_original.jpg",
+                "picture_id": "60541451"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/60541484/6a88b706_original.jpg",
+                "picture_id": "60541484"
+            },
+            {
+                "url": "https://a0.muscache.com/im/pictures/60538379/37f848e3_original.jpg",
+                "picture_id": "60538379"
+            },
+            {
+                "url": "https://a0.muscache.com/im/pictures/60539030/8732066b_original.jpg",
+                "picture_id": "60539030"
+            },
+            {
+                "url": "https://a1.muscache.com/im/pictures/60536951/d2059103_original.jpg",
+                "picture_id": "60536951"
+            }
+        ],
+        "location": [
+            2.3434604,
+            48.8534078
+        ],
+        "user": {
+            "account": {
+                "username": "Robert",
+                "description": "Hello, I'm married, 2 kids, leaving in the center of Paris and loving it. I rent my own place and manage a few others. For all of them, I'll be happy to advise you on your stay in Paris, nice places, best walks to reach them, shops, restaurants..... I'll be there. See you soon in Paris.",
+                "photo": {
+                    "url": "https://res.cloudinary.com/lereacteur/image/upload/v1673028151/airbnb/static/06--erster-teaser-zu--mickey-17--ist-da---1-1---spoton-article-1034845.jpg",
+                    "picture_id": "v1578485133"
+                }
+            },
+            "_id": "58ff73cc1765a998979a338e",
+            "email": "robert@airbnb-api.com",
+            "token": "COn-xlBvjoHZ9rif01C2lStuSiQI5O_CiZsfZPcuxmRYp4qsSlvT4isFy3NV9MP6",
+            "hash": "wtA/oYeIK12uEjS+oxFdPn4TKVyIuCcmB4ulqiZdk18=",
+            "salt": "QmoNQ3GKDXcC0nPNzZ_ylBmLPEa7OyB1oIPR7dje-mL6285bl0ed7CQxivfzRGBx",
+            "rooms": [
+                "58ff73cc1765a99897945391",
+                "58ff73cc1765a9979391c532"
+            ],
+            "__v": 0
+        },
+        "__v": 0
+    },
+    {
+        "_id": "58ff73d11765a998979a3397",
+        "title": "Gambetta, Paris",
+        "description": "Two rooms in Gambetta. A bedroom and a living room with open kitchen. Bathroom with toilet and bath. Several shops all along the street. Close to Père Lachaise cemetery, Belleville, and Parc des Buttes Chaumont. Very calm.",
+        "price": 120,
+        "ratingValue": 4,
+        "reviews": 5,
+        "photos": [
+            {
+                "url": "https://a2.muscache.com/im/pictures/93801377/82b55123_original.jpg",
+                "picture_id": "93801377"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/93801440/8198ed7e_original.jpg",
+                "picture_id": "93801440"
+            },
+            {
+                "url": "https://a1.muscache.com/im/pictures/93801405/599ba94f_original.jpg",
+                "picture_id": "93801405"
+            },
+            {
+                "url": "https://a0.muscache.com/im/pictures/93801478/a1ad2ca8_original.jpg",
+                "picture_id": "93801478"
+            }
+        ],
+        "location": [
+            2.3981123,
+            48.8613664
+        ],
+        "user": {
+            "account": {
+                "username": "Charles",
+                "description": "I love cooking and travelling. I would be very happy to share with you my flat in Paris. I travel a lot for work and i don't often live in my apt.",
+                "photo": {
+                    "url": "https://res.cloudinary.com/lereacteur/image/upload/v1673028057/airbnb/static/Charles-Schillings-avatar.png",
+                    "picture_id": "29318295"
+                }
+            },
+            "_id": "58ff73cc1765a998979a338d",
+            "email": "charles@airbnb-api.com",
+            "token": "eIJSQ1G5j2DNx3gMRAOWxIVuXepF-CAP1WqbyTBAfNkOI7SY2WiU8VGrfAeWBmPh",
+            "hash": "uomLZ50NtWO4BmDHuRf+1rLvnNQqu3Nu7gyPxI51yJE=",
+            "salt": "BgU6nqpSnE2i1wo5J23ZtD1YEbMnFocmEKMRQbLn9imOTJWirRcI-sd90IG6Vz9O",
+            "rooms": [
+                "58ff73d11765a998979a3397"
+            ],
+            "__v": 0
+        },
+        "__v": 0
+    },
+    {
+        "_id": "58ff73d11765a998979a3396",
+        "title": "Eiffel Tower Luxury 90m², 2 Terraces",
+        "description": "This is a completely renovated flat, close to Eiffel Tower and the Seine river, meant to inspire a true Parisian experience. Elegant two bedrooms of about 90 sqm with 2 terraces and a private car park.",
+        "price": 219,
+        "ratingValue": 5,
+        "reviews": 84,
+        "photos": [
+            {
+                "url": "https://a0.muscache.com/im/pictures/78258884/5c57c1de_original.jpg",
+                "picture_id": "78258884"
+            },
+            {
+                "url": "https://a1.muscache.com/im/pictures/94116113/39f01888_original.jpg",
+                "picture_id": "94116113"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/63468cc8-6978-479b-a7a3-742c6e053c11.jpg",
+                "picture_id": "63468cc8"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/78259359/4142efdd_original.jpg",
+                "picture_id": "78259359"
+            },
+            {
+                "url": "https://a2.muscache.com/im/pictures/78259059/3f7fc75a_original.jpg",
+                "picture_id": "78259059"
+            }
+        ],
+        "location": [
+            2.2841681,
+            48.8498514
+        ],
+        "user": {
+            "account": {
+                "username": "Nono",
+                "description": "Courageous adventurer !",
+                "photo": {
+                    "url": "https://res.cloudinary.com/lereacteur/image/upload/v1673027909/airbnb/static/ohwycmqkphacqptiyriy.png",
+                    "picture_id": "a142a09aa"
+                }
+            },
+            "_id": "58ff73cc1765a998979a3390",
+            "email": "nono@airbnb-api.com",
+            "token": "ZcO9iX-lrY_mHfq0aONLQDDz2TQM5TC-ujWY_mlR8UROosx6ikSgtyZayfr8cLbh",
+            "hash": "Aq8TWsAKILd0qsP/LRTXfTAQ4W+nzYfqiB+ER+YDjiE=",
+            "salt": "_t8mV9cz8BY2OI2LzZ5KZH4VsmhkXl40WGvzSy24y9f8z4MHYCNSC8ycScp8s1u0",
+            "rooms": [
+                "58ff73d11765a998979a3396"
+            ],
+            "__v": 0
+        },
+        "__v": 0
+    }
+]
